@@ -2,7 +2,7 @@
 
 ## Overview
 
-Anti-Keylogger is a Python project that monitors CPU and memory usage of processes and can detect suspicious activity based on CPU usage spikes. It also includes a keylogger component for capturing keystrokes.
+Anti-Keylogger is a Python project that monitors CPU and memory usage of processes and can detect suspicious activity based on CPU usage spikes. It also includes a keylogger component for capturing keystrokes.This project is for educational purposes only.
 
 ## Features
 
