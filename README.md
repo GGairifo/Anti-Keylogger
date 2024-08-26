@@ -36,7 +36,7 @@ Anti-Keylogger is a Python project that monitors CPU and memory usage of process
 2. Run the process monitoring:
 
     ```bash
-    python antikeylogger/MonitorPids.py
+    python antikeylogger/antikeylogger.py
     ```
 
 ## License
